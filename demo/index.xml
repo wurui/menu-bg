@@ -21,22 +21,44 @@
                 <href></href>
                 <subtitle></subtitle>
                 <icon></icon>
-                <bg></bg>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/29toivxlaTjpnu5o4iRp64tAjf1-590.jpg</bg>
             </i>
             <i>
                 <title>商务合作</title>
                 <href></href>
                 <subtitle></subtitle>
                 <icon></icon>
-                <bg></bg>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/29toiv8prTjpnu6d01Rqf3wA135h-667.jpg</bg>
             </i>
             <i>
                 <title>关于我们</title>
                 <href></href>
                 <subtitle></subtitle>
                 <icon></icon>
-                <bg></bg>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/29tojfknpTjpntm123R0xf0A7sfo-538.png</bg>
             </i>
+            <i>
+                <title>解决方案</title>
+                <href></href>
+                <subtitle></subtitle>
+                <icon></icon>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/29tswk6n9Tjpjghf2jRrquqAbapd-486.png</bg>
+            </i>
+            <i>
+                <title>产品案例</title>
+                <href></href>
+                <subtitle></subtitle>
+                <icon></icon>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a6woz29jTjcfo2jg9R8oklA1ui5-561.jpg</bg>
+            </i>
+            <i>
+                <title>售后条款</title>
+                <href></href>
+                <subtitle></subtitle>
+                <icon></icon>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/29tq8g8k8Tjpm4ld5kRic3rA1dbl-630.jpg</bg>
+            </i>
+
         </ui-entry>
     </data>
 </root>
